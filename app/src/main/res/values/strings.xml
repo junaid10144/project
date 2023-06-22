@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BusLinker</string>
+    <string name="title_activity_main">BusLinker</string>
+    <string name="package_name">com.junaid.buslinker</string>
+    <string name="custom_url_scheme">com.junaid.buslinker</string>
+</resources>
